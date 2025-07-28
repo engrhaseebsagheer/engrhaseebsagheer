@@ -1,10 +1,12 @@
 - 👋 Hi, I’m Haseeb Sagheer
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on Linkedin or on [Haseeb Studios](https://haseebstudios.com/)
-- 📫 Reach me on my [linkedin profile](https://www.linkedin.com/in/haseeb-sagheer/)
+- 👀 I’m passionate about Artificial Intelligence, Machine Learning, and Data Science
+- 🌱 I’m currently learning AI/ML using Python and working on real-world projects
+- 💼 Previously worked in Unity Game Development; now transitioning into AI-driven development
+- 🧠 Exploring projects that blend AI with creativity and problem-solving
+- 💻 I’m open to collaboration on LinkedIn or through [Haseeb Studios](https://haseebstudios.com/)
+- 📫 Reach me via my [LinkedIn profile](https://www.linkedin.com/in/haseeb-sagheer/)
+- 🚀 Fun fact: I run a startup called Haseeb Studios, now exploring AI-powered products
 - 😄 Pronouns: Haseeb
-- ⚡ Fun fact: Currenlty has a startup called Haseeb Studios
 
 <!---
 engrhaseebsagheer/engrhaseebsagheer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
